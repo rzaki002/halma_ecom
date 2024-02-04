@@ -49,8 +49,16 @@ We would like to extend our thanks to the following sponsors for funding Laravel
 - **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
 - **[Lendio](https://lendio.com)**
 
-#Tampilan
+##Tampilan
 ![alt text](https://github.com/rzaki002/halma_ecom/blob/main/public/2024-02-04%2021%2016%2049.png?raw=true)
+![alt text](https://github.com/rzaki002/halma_ecom/blob/main/public/2024-02-04%2021%2017%2003.png?raw=true)
+![alt text](https://github.com/rzaki002/halma_ecom/blob/main/public/2024-02-04%2021%2017%2026.png?raw=true)
+![alt text](https://github.com/rzaki002/halma_ecom/blob/main/public/2024-02-04%2021%2018%2005.png?raw=true)
+![alt text](https://github.com/rzaki002/halma_ecom/blob/main/public/2024-02-04%2021%2010%2043.png?raw=true)
+![alt text](https://github.com/rzaki002/halma_ecom/blob/main/public/2024-02-04%2021%2011%2017.png?raw=true)
+![alt text](https://github.com/rzaki002/halma_ecom/blob/main/public/2024-02-04%2021%2011%2031.png?raw=true)
+
+
 ## Contributing
 
 Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
