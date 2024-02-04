@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Button Print Example</title>
+    <style>
+        /* Gaya tombol */
+        .print-button {
+            display: block;
+            padding: 10px;
+            background-color: #007bff;
+            color: #fff;
+            border: none;
+            cursor: pointer;
+        }
+
+        /* Menyembunyikan tombol saat mode cetak */
+        @media print {
+            .print-button {
+                display: none;
+            }
+        }
+    </style>
+</head>
+<body>
+    <h1>Contoh Tombol Print</h1>
+    <p>Ini adalah konten halaman.</p>
+
+    <!-- Tombol print yang hanya tampil pada mode layar -->
+    <button class="print-button" onclick="window.print()">Print</button>
+</body>
+</html>
