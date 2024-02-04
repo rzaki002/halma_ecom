@@ -49,7 +49,6 @@ We would like to extend our thanks to the following sponsors for funding Laravel
 - **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
 - **[Lendio](https://lendio.com)**
 
-##Tampilan
 ![alt text](https://github.com/rzaki002/halma_ecom/blob/main/public/2024-02-04%2021%2016%2049.png?raw=true)
 ![alt text](https://github.com/rzaki002/halma_ecom/blob/main/public/2024-02-04%2021%2017%2003.png?raw=true)
 ![alt text](https://github.com/rzaki002/halma_ecom/blob/main/public/2024-02-04%2021%2017%2026.png?raw=true)
